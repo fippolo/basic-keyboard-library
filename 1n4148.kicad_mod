@@ -1,0 +1,229 @@
+(footprint "1n4148"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -5.31 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8b619e2b-c9e1-49c5-a307-16eb570515d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "1n4148"
+		(at 0 -3.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e9dfca86-7061-4f73-b503-d92a381096d6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 -4.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3da7f57-4ab3-443b-872e-f2489b3fdace")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 -4.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "faf36674-1d06-4d40-b05f-75c096a4cbab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 -4.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b8d50726-330b-411b-bc4b-d94df04e9b27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -0.35 -0.7)
+		(end -0.35 0.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f9d47f42-a934-4e84-b8be-c77ec60cf4b1")
+	)
+	(fp_line
+		(start -0.35 -0.35)
+		(end -0.35 -0.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "83e61529-835d-4791-b271-4fda60432476")
+	)
+	(fp_line
+		(start -0.35 -0.35)
+		(end -0.35 0.175)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "46c91c95-5f86-4e0f-9c03-34eda147c00a")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end -1.05 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "afa417cf-3eb0-4323-9d2b-191bd6e5f041")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end -0.35 0.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "6eaaa4dc-18f4-4ba0-b5b3-4d309e141a13")
+	)
+	(fp_line
+		(start -0.35 0)
+		(end 0.35 -0.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f9ff3909-dc5f-4df0-ab1d-d82ce3a8be49")
+	)
+	(fp_line
+		(start -0.35 0.35)
+		(end -0.35 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "89589be2-de87-4a0a-9fe6-bc3cafa1db89")
+	)
+	(fp_line
+		(start -0.35 0.7)
+		(end -0.35 0.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "5abc3b9a-31cf-4395-83d5-7fef40ba6b23")
+	)
+	(fp_line
+		(start 0.35 -0.7)
+		(end 0.35 0.35)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1d6a4f76-8111-400e-ab76-90b32e5ee799")
+	)
+	(fp_line
+		(start 0.35 0)
+		(end 1.05 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "9d91caf1-0955-488e-a80e-a6c8459a7088")
+	)
+	(fp_line
+		(start 0.35 0.35)
+		(end 0.35 0.7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e975f044-ddc4-4c70-aab4-0e1a9e1411da")
+	)
+	(fp_line
+		(start 0.35 0.7)
+		(end -0.35 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a687a95e-ebd2-496b-ba65-d84a0aa98329")
+	)
+	(fp_rect
+		(start -4.6 -1.06)
+		(end 4.6 1.06)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "97e3d60f-3e04-4467-b0e2-b80040043fd5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2.31 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "77474aa5-6f6f-4c2a-977b-77ab73ae338e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "3" thru_hole rect
+		(at -3.5 0)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b228d8cc-aff4-47d0-9517-f26d67a01ee8")
+	)
+	(pad "4" thru_hole circle
+		(at 3.5 0)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "418f37ed-833b-4f39-8e0e-ecd06449fdf7")
+	)
+)
