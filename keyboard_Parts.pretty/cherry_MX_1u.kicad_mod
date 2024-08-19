@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -7.62 0)
+		(at 0 -8.05 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "3c0dc035-3de4-49c3-8560-dfbab8e85eeb")
@@ -19,6 +19,7 @@
 		(at 0 3.81 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "9da9f855-a92d-47c9-96b6-15f58f500360")
 		(effects
 			(font
@@ -88,18 +89,6 @@
 		(fill none)
 		(layer "Dwgs.User")
 		(uuid "25dce62a-0ea6-4077-8b7d-49a5af507bb6")
-	)
-	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(uuid "6f8c4335-8802-4dfe-bb92-a358b4a200c1")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(pad "" np_thru_hole circle
 		(at -5.08 0)
